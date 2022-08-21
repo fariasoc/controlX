@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "controlX",
+    "slug": "controlX",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
